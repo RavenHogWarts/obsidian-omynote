@@ -17,7 +17,7 @@ type SettingsItem<T = Record<string, never>> = IBaseSettingsItem & T;
 
 // 定义翻译结构类型
 export type BaseMessage = {
-	"obsidian-plugin-starter": string;
+	"obsidian-omynote": string;
 };
 
 // 生成所有可能的翻译键路径类型

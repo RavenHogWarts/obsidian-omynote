@@ -40,8 +40,8 @@ By participating in this project, you are expected to uphold our Code of Conduct
 1. **Fork the repository** on GitHub
 2. **Clone your fork** locally
    ```bash
-   git clone https://github.com/RavenHogWarts/obsidian-plugin-starter.git
-   cd obsidian-plugin-starter
+   git clone https://github.com/RavenHogWarts/obsidian-omynote.git
+   cd obsidian-omynote
    ```
 3. **Install dependencies**
    ```bash
@@ -179,8 +179,8 @@ Feature requests are welcome. Please provide:
 1. **在 GitHub 上 Fork 仓库**
 2. **在本地克隆您的 Fork**
    ```bash
-   git clone https://github.com/RavenHogwarts/obsidian-plugin-starter.git
-   cd obsidian-plugin-starter
+   git clone https://github.com/RavenHogwarts/obsidian-omynote.git
+   cd obsidian-omynote
    ```
 3. **安装依赖**
    ```bash
